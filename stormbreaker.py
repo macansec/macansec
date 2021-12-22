@@ -195,9 +195,7 @@ class SubNameBrute:
 
 
     def _print_progress(self):
-        """
-            显示扫描进度,显示更美观
-        """
+
         msg = '\033[0;31;47m%s\033[0m found | %s remaining | %s scanned in %.2f seconds' % \
               (self.found_count, self.queue.qsize(), self.scan_count, time.time()- self.start_time)
 
