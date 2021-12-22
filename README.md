@@ -2,11 +2,8 @@
 A tool finding sub-domains of a target site for penetesters with python3.
 
 
-## Preface
-This script is used to detect subdomains. 
-
-Sombody made files output saved to the folder reuslts each target have a folder with its name.
-
+## Note
+    This tool is currently presented under the label 0.9 and is incomplete.
 ## Dependencies
 
     python3 -m pip install -r requirements.txt
