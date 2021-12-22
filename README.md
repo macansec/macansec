@@ -10,4 +10,4 @@ A tool finding sub-domains of a target site for penetesters with python3.
 
 ## Usage
 
-    python3 CalibonSubDomainFinder.py target.com
+    python3 stormbreaker.py target.com
