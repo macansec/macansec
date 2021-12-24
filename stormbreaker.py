@@ -1,24 +1,10 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 """
-    created by:
-        macansec;
-        blog
-        {
-            macansec.blog.ir    
-        }
-        twitter
-        {
-            macansec
-        }
-        instagram
-        {
-            macansec
-        }
-        gtihub
-        {
-            macansec
-        }
+-------------------------------
+created by:Macansec(AmirAliNabasteh)
+twitter:@macansec/instagram:@macansec/telegram(channel):@macansec/github:macansec
+-------------------------------
 """
 
 import warnings
